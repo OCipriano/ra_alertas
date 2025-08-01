@@ -96,14 +96,14 @@ Este projeto é um **bot para Telegram** desenvolvido em Python que fornece **al
    SISMOS_API=https://www.seismicportal.eu/fdsnws/event/1/query
    ```
 
-   • BOT_TOKEN: Token do teu bot.
-   • SEISMIC_LIMIT, SEISMIC_START, SEISMIC_START, SEISMIC_FORMAT, SEISMIC_MINMAG: Parâmetros da pesquisa da API de sismos.
-   • ALERTA_SISMOS_CHANNEL_IDS: Lista de IDs de canais ou grupos onde os alertas serão enviados.
-   • MIN_MAGNITUDE_ALERTA: Magnitude mínima para envio de alerta.
-   • INTERVALO_VERIFICACAO: Intervalo entre verificações (em segundos).
-   • IPMA_API: Endpoint da API pública do IPMA para previsão meteorológica.
-   • FOGOS_API: Endpoint da API dos fogos.
-   • SISMOS_API: Endpoint da API de sismos.
+- BOT_TOKEN: Token do teu bot.
+- SEISMIC_LIMIT, SEISMIC_START, SEISMIC_START, SEISMIC_FORMAT, SEISMIC_MINMAG: Parâmetros da pesquisa da API de sismos.
+- ALERTA_SISMOS_CHANNEL_IDS: Lista de IDs de canais ou grupos onde os alertas serão enviados.
+- MIN_MAGNITUDE_ALERTA: Magnitude mínima para envio de alerta.
+- INTERVALO_VERIFICACAO: Intervalo entre verificações (em segundos).
+- IPMA_API: Endpoint da API pública do IPMA para previsão meteorológica.
+- FOGOS_API: Endpoint da API dos fogos.
+- SISMOS_API: Endpoint da API de sismos.
 
 ---
 
