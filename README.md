@@ -91,9 +91,9 @@ Este projeto é um **bot para Telegram** desenvolvido em Python que fornece **al
    INTERVALO_VERIFICACAO=600  # em segundos (exemplo: 1800 = 30 minutos)
 
    # ENDPOINTS DAS APIS
-   IPMA_API=https://api.ipma.pt/public-data/forecast/aggregate/
-   FOGOS_API=https://api-dev.fogos.pt/v1/active/
-   SISMOS_API=https://www.seismicportal.eu/fdsnws/event/1/query
+   IPMA_API=URL
+   FOGOS_API=URL
+   SISMOS_API=URL
    ```
 
 - BOT_TOKEN: Token do teu bot.
