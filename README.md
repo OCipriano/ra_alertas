@@ -144,7 +144,7 @@ Para iniciar o bot:
 - Conta Telegram + Bot API
   - Procura no Telegram por `@BotFather` e segue as instruções para criar um bot
   - Guarda o **Token** fornecido pelo BotFather
-- Chaves de API do IPMA, Fogos.pt e SeismicPortal.eu
+- Links de API do IPMA, Fogos.pt e SeismicPortal.eu
 - Bibliotecas:
   - python-telegram-bot[job-queue]
   - aiohttp
