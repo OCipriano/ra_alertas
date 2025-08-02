@@ -14,6 +14,12 @@ Este projeto é um **bot para Telegram** desenvolvido em Python que fornece **al
   - Evita duplicação de alertas (mesmo após reinício)
   - Verificação periódica (por defeito, de 10 em 10 minutos, configurável no `.env`) para detetar **novos sismos com magnitude igual ou superior ao valor definido**
   - Garante que **o mesmo sismo não é notificado mais do que uma vez**, guardando os IDs num ficheiro `sismos_notificados.json`.
+- **Sismos em Portugal** (independentemente da magnitude)
+  - Alerta sempre que é detetado qualquer sismo em Portugal, incluindo regiões autónomas (Açores e Madeira)
+  - Dados retirados da plataforma [SeismicPortal.eu]
+  - Garante que **o mesmo sismo não é notificado mais do que uma vez**, guardando os IDs num ficheiro `sismos_portugal_notificados.json`
+  - Verificação periódica (por defeito, de 10 em 10 minutos, configurável no `.env`)
+  - Permite enviar para múltiplos canais (definidos em ALERTA_SISMOS_CHANNEL_IDS, configurável no `.env`)
 
 ### 🌤️ Previsão Meteorológica
 
