@@ -138,6 +138,76 @@ Para iniciar o bot:
 
 ---
 
+## 📜 Exemplo de saída dos comandos
+
+### 📍 Ver previsão temperatura (5 dias)
+
+   ```bash
+   📍 Praia de Armação de Pera - Previsão para os próximos 5 dias:
+
+   📅 2025-08-02
+   🌡️ 19.7°C ~ 31.8°C
+   🔆 Índice UV: 8.7
+   🌦️ Prob. de precipitação: 0.0%
+   ```
+   
+### ️⚠️ Temperatura (hoje)
+
+   ```bash
+   🌤️ Temperaturas para Praia de Armação de Pera (Hoje)
+
+   🗓️ Data: 2025-08-02
+   🌡️ Temperatura Mínima: 19.7°C
+   🌡️ Temperatura Máxima: 31.8°C
+   🔆 Índice UV: 8.7
+   🌦️ Prob. de precipitação: 0.0%
+   ```
+
+### 🔥 Incêndios ativos
+
+   ```bash
+   🔥 Incêndios Ativos em Portugal: 6
+   
+   ───────────────────
+   
+   📍 Viana Do Castelo, Ponte da Barca, Lindoso - Em Curso
+   🕓 Início: 26-07-2025 | 21:47
+   🔥 Tipo de incêndio: Mato
+   
+   Neste momento, estão mobilizados:
+     👨‍🚒 599 operacionais
+     🚒 193 veículos
+     🚁 5 aéreos
+
+   ───────────────────
+   ```
+   
+### 🌍 Sismos recentes
+
+   ```bash
+   🌍 Últimos Sismos:
+
+   📍 GUATEMALA
+   🕒 2025-08-02 15:54:03
+   💥️ Magnitude: 🟢 m 2.8
+   📏 Profundidade: 6.0 Km
+   🗺️ Ver no mapa
+   ```
+   
+### 🔔 Alertas Automáticos de sismos
+
+   ```bash
+   🚨 Sismo de Grande Magnitude Detetado!
+
+   📍 OFF EAST COAST OF KAMCHATKA
+   🕒 Hora: 2025-08-02 14:14 UTC
+   💥 Magnitude: mw 6.0
+   📏 Profundidade: 20.5 Km
+   🗺️ Ver no mapa
+   ```
+
+---
+
 ## 🔧 Requisitos
 
 - Python 3.10 ou superior
