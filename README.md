@@ -254,6 +254,7 @@ Para iniciar o bot:
 - Desenvolvido por **Cipriano**
 - Telegram: @ocipriano
 - Email: redealfa.password440@passmail.com
+- Discord: Rede Alfa - https://discord.gg/kBHcmUbZAP
 
 ---
 
